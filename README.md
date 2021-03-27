@@ -1,21 +1,22 @@
 # Random-Color-Picker
 
-Authorization-Form is a React component  project
+Random color picker is a React project.
 
-A client just called you to say that they love their new website! There’s only one problem: they don’t like how their contact page displays their personal information for all to see.
+In this project, you’ll build a program that helps designers think of new color schemes.
 
-They’ve asked you to hide their website’s contact page behind a password form. 
+Our program will set the screen’s background to a random color. Clicking a button will refresh to a new, random color. Random generators are a well-known tool for breaking a creative rut.
+
 
 ## Installation
 
 Install the project locally
 ```bash
- https://github.com/SenayYakut/Authorization-Form.git
+ 
 ```
 
 ## Usage
 Go to 
-https://senayyakut.github.io/Authorization-Form/
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
