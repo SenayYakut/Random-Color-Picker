@@ -11,7 +11,7 @@ Our program will set the screen’s background to a random color. Clicking a but
 
 Install the project locally
 ```bash
- 
+ https://github.com/SenayYakut/Random-Color-Picker.git
 ```
 
 ## Usage
