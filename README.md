@@ -16,6 +16,7 @@ Install the project locally
 
 ## Usage
 Go to 
+https://senayyakut.github.io/Random-Color-Picker/
 
 
 ## Contributing
